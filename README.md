@@ -208,7 +208,5 @@ matters is a *second* registration, not a wrong status code.
 
 ## About
 
-Designed and built by **Amjad Ziadeh**. The production source is private; I am
-happy to walk through any part of it in more depth on request.
-
+Designed and built by **Amjad Ziadeh**. The production source is private.
 This repository is shared for portfolio purposes only. See [LICENSE](LICENSE).
